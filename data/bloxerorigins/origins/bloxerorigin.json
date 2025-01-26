@@ -1,0 +1,10 @@
+{
+    "powers": [
+        "bloxerorigins:charge_attack"
+    ],
+    "icon": "minecraft:diamond",
+    "order": 4,
+    "impact": 1,
+    "name": "BloxerHD",
+    "description": "The Custom Origin of BloxerHD"
+}
